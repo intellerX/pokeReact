@@ -1,0 +1,15 @@
+button {
+  display: inline-flex;
+  background-color: #5355d2;
+  color: white;
+  border-radius: 4px;
+  padding: 10px 30px;
+  text-align: center;
+  align-items: center;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #222495;
+}
